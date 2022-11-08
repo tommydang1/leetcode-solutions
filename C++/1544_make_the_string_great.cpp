@@ -1,7 +1,7 @@
 // Time: O(n)
 // Space: O(1)
 
-include "header.hpp"
+#include "header.hpp"
 
 class Solution {
 public:
