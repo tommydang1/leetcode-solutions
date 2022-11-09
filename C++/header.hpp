@@ -9,6 +9,7 @@
 #include <unordered_set>
 #include <string>
 #include <cstring>
+#include <stack>
 #include <stdio.h>
 #include <stdlib.h>
 
