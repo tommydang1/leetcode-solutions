@@ -10,6 +10,7 @@
 #include <string>
 #include <cstring>
 #include <stack>
+#include <queue>
 #include <stdio.h>
 #include <stdlib.h>
 
